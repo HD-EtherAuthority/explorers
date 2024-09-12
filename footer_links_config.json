@@ -1,64 +1,64 @@
 [
   {
-    'title': 'Quick Links',
-    'links': [
+    "title": "Quick Links",
+    "links": [
       {
-        'text': 'Testnet',
-        'url':'https://testnet.securechain.ai'
+        "text": "Testnet",
+        "url":"https://testnet.securechain.ai"
       },
       {
-        'text':'Bridge',
-        'url':'https://bridge.securechain.ai'
+        "text":"Bridge",
+        "url":"https://bridge.securechain.ai"
       },
       {
-        'text':'Dex',
-        'url':'https://explorer.securechain.ai/comingsoon'
+        "text":"Dex",
+        "url":"https://explorer.securechain.ai/comingsoon"
       },
       {
-        'text':'Staking',
-        'url':'https://validator.securechain.ai'
+        "text":"Staking",
+        "url":"https://validator.securechain.ai"
       }
     ]
   },
   {
-    'title':'Developers',
-    'links':[
+    "title":"Developers",
+    "links":[
       {
-        'text':'Techincal Docs',
-        'url':'https://docs.securechain.ai'
+        "text":"Techincal Docs",
+        "url":"https://docs.securechain.ai"
       },
       {
-        'text':'Testnet Explorer',
-        'url':'https://testnet.securechain.ai'
+        "text":"Testnet Explorer",
+        "url":"https://testnet.securechain.ai"
       },
       {
-        'text':'Testnet Faucet',
-        'url':'https://faucet.securechain.ai'
+        "text":"Testnet Faucet",
+        "url":"https://faucet.securechain.ai"
       },
       {
-        'text':'Github',
-        'url':'https://github.com/securechainai'
+        "text":"Github",
+        "url":"https://github.com/securechainai"
       }
     ]
   },
   {
-    'title':'Resources',
-    'links':[
+    "title":"Resources",
+    "links":[
       {
-        'text':'Blog',
-         'url':'https://securechain.ai/blog/'
+        "text":"Blog",
+         "url":"https://securechain.ai/blog/"
       },
       {
-        'text':'Forum',
-        'url':'https://forum.securechain.ai'
+        "text":"Forum",
+        "url":"https://forum.securechain.ai"
       },
       {
-        'text':'Learn',
-        'url':'https://youtube.com/@securechain'
+        "text":"Learn",
+        "url":"https://youtube.com/@securechain"
       },
       {
-        'text':'MediaKit',
-        'url':'https://drive.google.com/drive/folders/1H3lLypoe3iX-vn5Ym7HYE-N7FzYuTgXk?usp=share_link'
+        "text":"MediaKit",
+        "url":"https://drive.google.com/drive/folders/1H3lLypoe3iX-vn5Ym7HYE-N7FzYuTgXk?usp=share_link"
       }
     ]
   }
